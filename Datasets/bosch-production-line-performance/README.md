@@ -12,3 +12,4 @@ On account of the large size of the dataset, we have separated the files by the 
 - predict internal failures using thousands of measurements and tests made for each component along the assembly line. This would enable Bosch to bring quality products at lower costs to the end user.
 
 
+Note: Dataset is too large. full dataset on local repo
